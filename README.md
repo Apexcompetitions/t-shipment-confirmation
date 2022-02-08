@@ -1,1 +1,1 @@
-# bb-banquet-purchase-confirmation-email
+# t-shipment-confirmation
